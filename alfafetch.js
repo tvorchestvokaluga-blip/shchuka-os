@@ -8,7 +8,7 @@
 // Email и хост захардкожены ниже (не секретны сами по себе).
 
 const HOST = 'https://358.s20.online';
-const EMAIL = 'hsh_40@mail.ru';
+const EMAIL = 'tvorchestvo.kaluga@yandex.ru';
 
 const apiKey = process.argv[2];
 if (!apiKey) {
